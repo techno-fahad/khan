@@ -1,0 +1,16 @@
+.form-label{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.form-text{
+    color: white;
+}
+.form-check-label{
+    color: white;
+}
+.foot{
+    font-weight: bold;
+    font-size: 28px;
+}

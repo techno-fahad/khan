@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+header nav {
+    background-color: black;
+}
+
+header nav a {
+    font-weight: bold;
+}
+
+.main_sec {
+    padding: 50px 50px;
+}
+
+.main_sec h1 {
+    font-size: 45px;
+    color: white;
+    font-weight: 800;
+}
+
+.main_sec p {
+    color: white;
+    font-size: 30px;
+}
+
+.questions h1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+
+.questions .form {
+    max-width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    border-top: 10px solid rgb(78, 77, 77);
+    padding: 50px 50px;
+    color: white;
+}
+
+footer a {
+    color: white;
+    transition: all 0.5s ease-in-out;
+    margin-left: 40px;
+}
+
+footer ul li {
+    list-style: none;
+    margin: 10px;
+}
